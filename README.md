@@ -1,1 +1,1 @@
-# One_Rule_Algorithm
+# Algorithms
